@@ -4,6 +4,11 @@
   "main": "lib/index.js",
   "types": "lib",
   "license": "MIT",
+  "author": {
+    "email": "work.t6tg@gmail.com",
+    "name": "Thanawat Gulati",
+    "url": "https://t6tg.com"
+  },
   "scripts": {
     "start": "tsc -p . && node lib/index.js",
     "build": "tsc -p ."
