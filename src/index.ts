@@ -1,4 +1,4 @@
-import { Iuniversity } from "./types"
+import { IgetByUID, Iuniversity } from "./types"
 import u from "./universities.json";
 
 
@@ -6,4 +6,9 @@ const getUniversities = () :Iuniversity => {
     return {"data":u };
 }
 
-export {getUniversities }
+const getByUID = (uid: string) : IgetByUID => {
+        const found = u.filter(r => r.uid === uid);   
+        return {"data" : found[0]};
+}
+
+export {getUniversities, getByUID }
