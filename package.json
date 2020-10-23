@@ -1,0 +1,17 @@
+{
+  "name": "thai-university",
+  "version": "1.0.0",
+  "main": "lib/index.js",
+  "types": "lib",
+  "license": "MIT",
+  "scripts": {
+    "start": "tsc -p . && node lib/index.js",
+    "build": "tsc -p ."
+  },
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^4.5.0",
+    "@typescript-eslint/parser": "^4.5.0",
+    "eslint": "^7.11.0",
+    "typescript": "^4.0.3"
+  }
+}
