@@ -565,5 +565,285 @@
     "en_name": "Bangkok Thonburi University",
     "short_name_th": "มกธ.",
     "short_name_en": "BTU"
+  },
+  {
+    "uid": "82",
+    "th_name": "มหาวิทยาลัยกรุงเทพสุวรรณภูมิ",
+    "en_name": "Bangkok Suvarnabhumi University",
+    "short_name_th": "มกส.",
+    "short_name_en": "BSU"
+  },
+  {
+    "uid": "83",
+    "th_name": "มหาวิทยาลัยการจัดการและเทคโนโลยีอีสเทิร์น",
+    "en_name": "University In The Northeast",
+    "short_name_th": "มจทอ.",
+    "short_name_en": "UMT"
+  },
+  {
+    "uid": "84",
+    "th_name": "มหาวิทยาลัยเกริก",
+    "en_name": "Krirk University",
+    "short_name_th": "ม.กร.",
+    "short_name_en": "KRU"
+  },
+  {
+    "uid": "85",
+    "th_name": "มหาวิทยาลัยเกษมบัณฑิต",
+    "en_name": "Kasem Bundit University",
+    "short_name_th": "มกบ.",
+    "short_name_en": "KBU"
+  },
+  {
+    "uid": "86",
+    "th_name": "มหาวิทยาลัยคริสเตียน",
+    "en_name": "Christian University of Thailand",
+    "short_name_th": "ม.ค.ต.",
+    "short_name_en": "C.U.T."
+  },
+  {
+    "uid": "87",
+    "th_name": "มหาวิทยาลัยเฉลิมกาญจนา",
+    "en_name": "Chalermkarnchana University",
+    "short_name_th": "มฉน.",
+    "short_name_en": "CNU"
+  },
+  {
+    "uid": "88",
+    "th_name": "มหาวิทยาลัยตาปี",
+    "en_name": "Tapee University",
+    "short_name_th": "มตป.",
+    "short_name_en": "TPU"
+  },
+  {
+    "uid": "89",
+    "th_name": "มหาวิทยาลัยเจ้าพระยา",
+    "en_name": "Chaopraya University",
+    "short_name_th": "มจพ.",
+    "short_name_en": "CPU"
+  },
+  {
+    "uid": "90",
+    "th_name": "มหาวิทยาลัยชินวัตร",
+    "en_name": "Shinawatra University",
+    "short_name_th": "มชว.",
+    "short_name_en": "SIU"
+  },
+  {
+    "uid": "91",
+    "th_name": "มหาวิทยาลัยเซนต์จอห์น",
+    "en_name": "Saint John's University",
+    "short_name_th": "มซจ.",
+    "short_name_en": "SJU"
+  },
+  {
+    "uid": "92",
+    "th_name": "มหาวิทยาลัยเทคโนโลยีมหานคร",
+    "en_name": "Mahanakorn University of Technology",
+    "short_name_th": "มทม.",
+    "short_name_en": "MUT"
+  },
+  {
+    "uid": "93",
+    "th_name": "มหาวิทยาลัยธนบุรี",
+    "en_name": "Thonburi University",
+    "short_name_th": "มธร.",
+    "short_name_en": "TRU"
+  },
+  {
+    "uid": "94",
+    "th_name": "มหาวิทยาลัยธุรกิจบัณฑิตย์",
+    "en_name": "Dhurakij Pundit University",
+    "short_name_th": "มธบ.",
+    "short_name_en": "DPU"
+  },
+  {
+    "uid": "95",
+    "th_name": "มหาวิทยาลัยนอร์ทกรุงเทพ",
+    "en_name": "North Bangkok University",
+    "short_name_th": "มนก.",
+    "short_name_en": "NBU"
+  },
+  {
+    "uid": "96",
+    "th_name": "มหาวิทยาลัยนอร์ท-เชียงใหม่",
+    "en_name": "North-Chiang Mai University",
+    "short_name_th": "มนช.",
+    "short_name_en": "NCU"
+  },
+  {
+    "uid": "97",
+    "th_name": "มหาวิทยาลัยนานาชาติแสตมฟอร์ด",
+    "en_name": "Stamford International University",
+    "short_name_th": "มนชส.",
+    "short_name_en": "STIU"
+  },
+  {
+    "uid": "98",
+    "th_name": "มหาวิทยาลัยนานาชาติเอเชีย-แปซิฟิก",
+    "en_name": "Asia-Pacific International University",
+    "short_name_th": "ม.น.อ.",
+    "short_name_en": "AIU"
+  },
+  {
+    "uid": "99",
+    "th_name": "มหาวิทยาลัยเนชั่น",
+    "en_name": "Nation University",
+    "short_name_th": "มนช.",
+    "short_name_en": "NTU"
+  },
+  {
+    "uid": "100",
+    "th_name": "มหาวิทยาลัยปทุมธานี",
+    "en_name": "Pathumthani University",
+    "short_name_th": "ม.ป.ท.",
+    "short_name_en": "PTU"
+  },
+  {
+    "uid": "101",
+    "th_name": "มหาวิทยาลัยพายัพ",
+    "en_name": "Payap University",
+    "short_name_th": "มพย.",
+    "short_name_en": "PYU"
+  },
+  {
+    "uid": "102",
+    "th_name": "มหาวิทยาลัยพิษณุโลก",
+    "en_name": "Phitsanulok University",
+    "short_name_th": "มพล.",
+    "short_name_en": "PLU"
+  },
+  {
+    "uid": "103",
+    "th_name": "มหาวิทยาลัยฟาฏอนี",
+    "en_name": "Fatoni University",
+    "short_name_th": "มฟน.",
+    "short_name_en": "FTU"
+  },
+  {
+    "uid": "104",
+    "th_name": "มหาวิทยาลัยฟาร์อีสเทอร์น",
+    "en_name": "The Far Eastern University",
+    "short_name_th": "ม.ฟ.อ.",
+    "short_name_en": "FEU"
+  },
+  {
+    "uid": "105",
+    "th_name": "มหาวิทยาลัยภาคกลาง",
+    "en_name": "The University of Central Thailand",
+    "short_name_th": "ม.ภก.",
+    "short_name_en": "UCT"
+  },
+  {
+    "uid": "106",
+    "th_name": "มหาวิทยาลัยภาคตะวันออกเฉียงเหนือ",
+    "en_name": "NorthEastern University and Phakklang University",
+    "short_name_th": "ม.ภ.น.",
+    "short_name_en": "NEU"
+  },
+  {
+    "uid": "107",
+    "th_name": "มหาวิทยาลัยรังสิต",
+    "en_name": "Rangsit University",
+    "short_name_th": "มรส.",
+    "short_name_en": "RSU"
+  },
+  {
+    "uid": "108",
+    "th_name": "มหาวิทยาลัยรัตนบัณฑิต",
+    "en_name": "Rattana Bundit University and Rangsit University",
+    "short_name_th": "มรบ.",
+    "short_name_en": "RBAC"
+  },
+  {
+    "uid": "109",
+    "th_name": "มหาวิทยาลัยราชธานี",
+    "en_name": "Ratchathani University",
+    "short_name_th": "มรธ.",
+    "short_name_en": "RTU"
+  },
+  {
+    "uid": "110",
+    "th_name": "มหาวิทยาลัยราชพฤกษ์",
+    "en_name": "Rajapruk University",
+    "short_name_th": "มรพ.",
+    "short_name_en": "RPU"
+  },
+  {
+    "uid": "111",
+    "th_name": "มหาวิทยาลัยวงษ์ชวลิตกุล",
+    "en_name": "Vongchavalitkul University",
+    "short_name_th": "มว.",
+    "short_name_en": "VU"
+  },
+  {
+    "uid": "112",
+    "th_name": "มหาวิทยาลัยเว็บสเตอร์ (ประเทศไทย)",
+    "en_name": "Webster University Thailand",
+    "short_name_th": "ม.ว.ท.",
+    "short_name_en": "WTUT"
+  },
+  {
+    "uid": "113",
+    "th_name": "มหาวิทยาลัยเวสเทิร์น",
+    "en_name": "Western University",
+    "short_name_th": "มท.",
+    "short_name_en": "WTU"
+  },
+  {
+    "uid": "114",
+    "th_name": "มหาวิทยาลัยศรีปทุม",
+    "en_name": "Sripatum University",
+    "short_name_th": "มศป.",
+    "short_name_en": "SPU"
+  },
+  {
+    "uid": "115",
+    "th_name": "มหาวิทยาลัยสยาม",
+    "en_name": "Siam University",
+    "short_name_th": "มส.",
+    "short_name_en": "SU"
+  },
+  {
+    "uid": "116",
+    "th_name": "มหาวิทยาลัยหอการค้าไทย",
+    "en_name": "University of the Thai Chamber of Commerce",
+    "short_name_th": "มกค.",
+    "short_name_en": "UTCC"
+  },
+  {
+    "uid": "117",
+    "th_name": "มหาวิทยาลัยหัวเฉียวเฉลิมพระเกียรติ",
+    "en_name": "Huachiew Chalermprakiet University",
+    "short_name_th": "ม.ฉ.ก.",
+    "short_name_en": "HCU"
+  },
+  {
+    "uid": "118",
+    "th_name": "มหาวิทยาลัยหาดใหญ่",
+    "en_name": "Hatyai University",
+    "short_name_th": "ม.ญ.",
+    "short_name_en": "HU"
+  },
+  {
+    "uid": "119",
+    "th_name": "มหาวิทยาลัยอัสสัมชัญ",
+    "en_name": "Assumption University",
+    "short_name_th": "มอช.",
+    "short_name_en": "AU"
+  },
+  {
+    "uid": "120",
+    "th_name": "มหาวิทยาลัยอีสเทิร์นเอเชีย",
+    "en_name": "University of Eastern Asia",
+    "short_name_th": "มวอ.",
+    "short_name_en": "EAU"
+  },
+  {
+    "uid": "121",
+    "th_name": "มหาวิทยาลัยเอเชียอาคเนย์",
+    "en_name": "Southeast Asia University",
+    "short_name_th": "ม.อ.อ.",
+    "short_name_en": "SAU"
   }
 ]
