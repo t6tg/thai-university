@@ -1,11 +1,12 @@
-import { Iuniversity} from "./types"
-import u from "universities.json";
+import { Iuniversity } from "./types"
+import u from "./universities.json";
 
-const getUniversities = () : Iuniversity[] => {
-    console.log(u)
-    return u;
+
+const getUniversities = () :Iuniversity => {
+    return {"data":u };
 }
 
-console.log(getUniversities());
+const data = getUniversities().data;
+data.map(r => (console.log(r.th_name)));
 
 export {getUniversities }
