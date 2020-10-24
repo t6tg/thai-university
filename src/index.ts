@@ -5,7 +5,7 @@ const getUniversities = () :Iuniversity => {
     return {"data":u };
 }
 const getByUID = (uid: string) : IgetByUID => {
-        const found = u.filter(r => r.uid === uid);   
+        const found = u.filter(r => r.uid === uid);
         return {"data" : found[0]};
 }
 
