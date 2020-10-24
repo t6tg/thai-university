@@ -1,1 +1,849 @@
-[{"uid":"01","th_name":"มหาวิทยาลัยกาฬสินธุ์","en_name":"Kalasin University","short_name_th":"มกส.","short_name_en":"KSU"},{"uid":"02","th_name":"มหาวิทยาลัยนครพนม","en_name":"Nakhon Phanom University","short_name_th":"มนพ.","short_name_en":"NPU"},{"uid":"03","th_name":"มหาวิทยาลัยนราธิวาสราชนครินทร์","en_name":"Princess of Naradhiwas University","short_name_th":"มนร.","short_name_en":"PNU"},{"uid":"04","th_name":"มหาวิทยาลัยนเรศวร","en_name":"Naresuan University","short_name_th":"มน.","short_name_en":"NU"},{"uid":"05","th_name":"มหาวิทยาลัยมหาสารคาม","en_name":"Mahasarakham University","short_name_th":"มมส.","short_name_en":"MSU"},{"uid":"06","th_name":"มหาวิทยาลัยรามคำแหง","en_name":"Ramkhamhaeng University","short_name_th":"มร.","short_name_en":"RU"},{"uid":"07","th_name":"มหาวิทยาลัยสุโขทัยธรรมาธิราช","en_name":"Sukhothai Thammathirat Open University","short_name_th":"มสธ.","short_name_en":"STOU"},{"uid":"08","th_name":"มหาวิทยาลัยอุบลราชธานี","en_name":"Ubon Ratchathani University","short_name_th":"มอบ.","short_name_en":"UBU"},{"uid":"09","th_name":"สถาบันบัณฑิตพัฒนบริหารศาสตร์","en_name":"National Institute of Development Administration-NIDA","short_name_th":"สพบ.","short_name_en":"NIDA"},{"uid":"10","th_name":"สถาบันเทคโนโลยีปทุมวัน","en_name":"Pathumwan Institute of Technology","short_name_th":"สทป.","short_name_en":"PIT"},{"uid":"11","th_name":"มหาวิทยาลัยราชภัฏกาญจนบุรี","en_name":"Kanchanaburi Rajabhat University","short_name_th":"มรกจ.","short_name_en":"KRU"},{"uid":"12","th_name":"มหาวิทยาลัยราชภัฏกำแพงเพชร","en_name":"Kamphaeng Phet Rajabhat University","short_name_th":"มรภ.กพ.","short_name_en":"KPRU"},{"uid":"13","th_name":"มหาวิทยาลัยราชภัฏจันทรเกษม","en_name":"Chandrakasem Rajabhat University","short_name_th":"มจษ.","short_name_en":"CRU"},{"uid":"14","th_name":"มหาวิทยาลัยราชภัฏชัยภูมิ","en_name":"Chaiyaphum Rajabhat University","short_name_th":"มชย.","short_name_en":"CPRU"},{"uid":"15","th_name":"มหาวิทยาลัยราชภัฏเชียงราย","en_name":"Chiang Rai Rajabhat University","short_name_th":"มร.ช.","short_name_en":"CRRU"},{"uid":"16","th_name":"มหาวิทยาลัยราชภัฏเชียงใหม่","en_name":"Chiang Mai Rajabhat University","short_name_th":"มร.ชม.","short_name_en":"CMRU"},{"uid":"17","th_name":"มหาวิทยาลัยราชภัฏเทพสตรี","en_name":"Thepsatri Rajabhat University","short_name_th":"มรท.","short_name_en":"TRU"},{"uid":"18","th_name":"มหาวิทยาลัยราชภัฏธนบุรี","en_name":"Dhonburi Rajabhat University","short_name_th":"มรธ.","short_name_en":"DRU"},{"uid":"19","th_name":"มหาวิทยาลัยราชภัฏนครปฐม","en_name":"Nakhon Pathom Rajabhat University","short_name_th":"มรน.","short_name_en":"NPRU"},{"uid":"20","th_name":"มหาวิทยาลัยราชภัฏนครราชสีมา","en_name":"Nakhon Ratchasima Rajabhat University","short_name_th":"มร.นม.","short_name_en":"NRRU"},{"uid":"21","th_name":"มหาวิทยาลัยราชภัฏนครศรีธรรมราช","en_name":"Nakhon Si Thammarat Rajabhat University","short_name_th":"มรนศ.","short_name_en":"NSTRU"},{"uid":"22","th_name":"มหาวิทยาลัยราชภัฏนครสวรรค์","en_name":"Nakhon Sawan Rajabhat University","short_name_th":"มรนว.","short_name_en":"NSRU"},{"uid":"23","th_name":"มหาวิทยาลัยราชภัฏบ้านสมเด็จเจ้าพระยา","en_name":"Bansomdejchaopraya Rajabhat University","short_name_th":"มบส.","short_name_en":"BSRU"},{"uid":"24","th_name":"มหาวิทยาลัยราชภัฏบุรีรัมย์","en_name":"Buriram Rajabhat University","short_name_th":"มรภ.บร.","short_name_en":"BRU"},{"uid":"25","th_name":"มหาวิทยาลัยราชภัฏพระนคร","en_name":"Phranakhon Rajabhat University","short_name_th":"มรภ.พน.","short_name_en":"PNRU"},{"uid":"26","th_name":"มหาวิทยาลัยราชภัฏพระนครศรีอยุธยา","en_name":"Phranakhon Si Ayutthaya Rajabhat University","short_name_th":"มรอย.","short_name_en":"ARU"},{"uid":"27","th_name":"มหาวิทยาลัยราชภัฏพิบูลสงคราม","en_name":"Pibulsongkram Rajabhat University","short_name_th":"มรพส.","short_name_en":"PSRU"},{"uid":"28","th_name":"มหาวิทยาลัยราชภัฏเพชรบุรี","en_name":"Phetchaburi Rajabhat University","short_name_th":"มรภ.พบ.","short_name_en":"PBRU"},{"uid":"29","th_name":"มหาวิทยาลัยราชภัฏเพชรบูรณ์","en_name":"Phetchabun Rajabhat University","short_name_th":"มรพช.","short_name_en":"PCRU"},{"uid":"30","th_name":"มหาวิทยาลัยราชภัฏภูเก็ต","en_name":"Phuket Rajabhat University","short_name_th":"มรภ.","short_name_en":"PKRU"},{"uid":"31","th_name":"มหาวิทยาลัยราชภัฏมหาสารคาม","en_name":"Rajabhat Maha Sarakham University","short_name_th":"มรม.","short_name_en":"RMU"},{"uid":"32","th_name":"มหาวิทยาลัยราชภัฏยะลา","en_name":"Yala Rajabhat University","short_name_th":"มรย.","short_name_en":"YRU"},{"uid":"33","th_name":"มหาวิทยาลัยราชภัฏร้อยเอ็ด","en_name":"Roi Et Rajabhat University","short_name_th":"ม.รอ.","short_name_en":"RERU"},{"uid":"34","th_name":"มหาวิทยาลัยราชภัฏราชนครินทร์","en_name":"Rajabhat Rajanagarindra University","short_name_th":"มรร.","short_name_en":"RRU"},{"uid":"35","th_name":"มหาวิทยาลัยราชภัฏรำไพพรรณี","en_name":"Rambhai Barni Rajabhat University","short_name_th":"มรรพ.","short_name_en":"RBRU"},{"uid":"36","th_name":"มหาวิทยาลัยราชภัฏลำปาง","en_name":"Lampang Rajabhat University","short_name_th":"มร.ลป.","short_name_en":"LPRU"},{"uid":"37","th_name":"มหาวิทยาลัยราชภัฏเลย","en_name":"Loei Rajabhat University","short_name_th":"มรล.","short_name_en":"LRU"},{"uid":"38","th_name":"มหาวิทยาลัยราชภัฏวไลยอลงกรณ์ ในพระบรมราชูปถัมภ์","en_name":"Valaya Alongkorn Rajabhat University","short_name_th":"มรว.","short_name_en":"VRU"},{"uid":"39","th_name":"มหาวิทยาลัยราชภัฏศรีสะเกษ","en_name":"Sisaket Rajabhat University","short_name_th":"มรภ.ศก.","short_name_en":"SSKRU"},{"uid":"40","th_name":"มหาวิทยาลัยราชภัฏสกลนคร","en_name":"Sakon Nakhon Rajabhat University","short_name_th":"มรสน.","short_name_en":"SNRU"},{"uid":"41","th_name":"มหาวิทยาลัยราชภัฏสงขลา","en_name":"Songkhla Rajabhat University","short_name_th":"มรภ.สข.","short_name_en":"SKRU"},{"uid":"42","th_name":"มหาวิทยาลัยราชภัฏสวนสุนันทา","en_name":"Suan Sunandha Rajabhat University","short_name_th":"มรภ.สส.","short_name_en":"SSRU"},{"uid":"43","th_name":"มหาวิทยาลัยราชภัฏสุราษฎร์ธานี","en_name":"Suratthani Rajabhat University","short_name_th":"มรส.","short_name_en":"SRU"},{"uid":"44","th_name":"มหาวิทยาลัยราชภัฏสุรินทร์","en_name":"Surindra Rajabhat University","short_name_th":"ม.รภ.สร.","short_name_en":"SRRU"},{"uid":"45","th_name":"มหาวิทยาลัยราชภัฏหมู่บ้านจอมบึง","en_name":"Muban Chom Bueng Rajabhat University","short_name_th":"มรมจ.","short_name_en":"MCRU"},{"uid":"46","th_name":"มหาวิทยาลัยราชภัฏอุดรธานี","en_name":"Udon Thani Rajabhat University","short_name_th":"มร.อด.","short_name_en":"UDRU"},{"uid":"47","th_name":"มหาวิทยาลัยราชภัฏอุตรดิตถ์","en_name":"Uttaradit Rajabhat University","short_name_th":"มรอ.","short_name_en":"URU"},{"uid":"48","th_name":"มหาวิทยาลัยราชภัฏอุบลราชธานี","en_name":"Ubon Ratchathani Rajabhat University","short_name_th":"มรภ.อบ.","short_name_en":"UBRU"},{"uid":"49","th_name":"มหาวิทยาลัยเทคโนโลยีราชมงคลกรุงเทพ","en_name":"Rajamangala University of Technology Krungthep","short_name_th":"มทร.กรุงเทพ","short_name_en":"RMUTK"},{"uid":"50","th_name":"มหาวิทยาลัยเทคโนโลยีราชมงคลตะวันออก","en_name":"Rajamangala University of Technology Tawan-ok Uthenthawai Campus","short_name_th":"มทร.ตะวันออก","short_name_en":"RMUTTO"},{"uid":"51","th_name":"มหาวิทยาลัยเทคโนโลยีราชมงคลธัญบุรี","en_name":"Rajamangala University of Technology Thanyaburi","short_name_th":"มทร.ธัญบุรี","short_name_en":"RMUTT"},{"uid":"52","th_name":"มหาวิทยาลัยเทคโนโลยีราชมงคลพระนคร","en_name":"Rajamangala University of Technology Phra Nakhon","short_name_th":"มทร.พระนคร","short_name_en":"RMUTP"},{"uid":"53","th_name":"มหาวิทยาลัยเทคโนโลยีราชมงคลรัตนโกสินทร์","en_name":"Rajamangala University of Technology Rattanakosin","short_name_th":"มทร.รัตนโกสินทร์","short_name_en":"RMUTR"},{"uid":"54","th_name":"มหาวิทยาลัยเทคโนโลยีราชมงคลล้านนา","en_name":"Rajamangala University of Technology Lanna","short_name_th":"มทร.ล้านนา","short_name_en":"RMUTL"},{"uid":"55","th_name":"มหาวิทยาลัยเทคโนโลยีราชมงคลศรีวิชัย","en_name":"Rajamangala University of Technology Srivijaya","short_name_th":"มทร.ศรีวิชัย","short_name_en":"RMUTSV"},{"uid":"56","th_name":"มหาวิทยาลัยเทคโนโลยีราชมงคลสุวรรณภูมิ","en_name":"Rajamangala University of Technology Suvarnabhumi","short_name_th":"มทร.สุวรรณภูมิ","short_name_en":"RUS"},{"uid":"57","th_name":"มหาวิทยาลัยเทคโนโลยีราชมงคลอีสาน","en_name":"Rajamangala University of Technology Isan","short_name_th":"มทร.อีสาน","short_name_en":"RMUTI"},{"uid":"58","th_name":"มหาวิทยาลัยเกษตรศาสตร์","en_name":"Kasetsart University","short_name_th":"มก.","short_name_en":"KU"},{"uid":"59","th_name":"มหาวิทยาลัยขอนแก่น","en_name":"Khon Kaen University","short_name_th":"มข.","short_name_en":"KKU"},{"uid":"60","th_name":"จุฬาลงกรณ์มหาวิทยาลัย","en_name":"Chulalongkorn University","short_name_th":"จฬ.","short_name_en":"CU"},{"uid":"61","th_name":"มหาวิทยาลัยเชียงใหม่","en_name":"Chiang Mai University","short_name_th":"มช.","short_name_en":"CMU"},{"uid":"62","th_name":"มหาวิทยาลัยทักษิณ","en_name":"Thaksin University","short_name_th":"มทษ.","short_name_en":"TSU"},{"uid":"63","th_name":"มหาวิทยาลัยเทคโนโลยีพระจอมเกล้าธนบุรี","en_name":"King Mongkut’s University of Technology Thonburi","short_name_th":"มจธ.","short_name_en":"KMUTT"},{"uid":"64","th_name":"มหาวิทยาลัยเทคโนโลยีพระจอมเกล้าพระนครเหนือ","en_name":"King Mongkut's University of Technology North Bangkok","short_name_th":"มจพ.","short_name_en":"KMUTNB"},{"uid":"65","th_name":"มหาวิทยาลัยเทคโนโลยีสุรนารี","en_name":"University in Nakhon Ratchasima","short_name_th":"มทส.","short_name_en":"SUT"},{"uid":"66","th_name":"มหาวิทยาลัยธรรมศาสตร์","en_name":"Thammasat University","short_name_th":"มธ.","short_name_en":"TU"},{"uid":"67","th_name":"มหาวิทยาลัยนวมินทราธิราช","en_name":"Navamindradhiraj University","short_name_th":"นมร.","short_name_en":"NMU"},{"uid":"68","th_name":"มหาวิทยาลัยบูรพา","en_name":"Burapha University","short_name_th":"มบ.","short_name_en":"BUU"},{"uid":"69","th_name":"มหาวิทยาลัยพะเยา","en_name":"University of Phayao","short_name_th":"มพ.","short_name_en":"UP"},{"uid":"70","th_name":"มหาวิทยาลัยมหาจุฬาลงกรณราชวิทยาลัย","en_name":"Mahachulalongkornrajavidyalaya University","short_name_th":"มจร.","short_name_en":"MCU"},{"uid":"71","th_name":"มหาวิทยาลัยมหามกุฏราชวิทยาลัย","en_name":"Mahamakut Buddhist University","short_name_th":"มมร.","short_name_en":"MBU"},{"uid":"72","th_name":"มหาวิทยาลัยมหิดล","en_name":"Mahidol University","short_name_th":"-","short_name_en":"MU"},{"uid":"73","th_name":"มหาวิทยาลัยแม่โจ้","en_name":"Maejo University","short_name_th":"มจ.","short_name_en":"MJU"},{"uid":"74","th_name":"มหาวิทยาลัยแม่ฟ้าหลวง","en_name":"Mae Fah Luang University","short_name_th":"มฟล.","short_name_en":"MFU"},{"uid":"75","th_name":"มหาวิทยาลัยวลัยลักษณ์","en_name":"Walailak University","short_name_th":"มวล.","short_name_en":"WU"},{"uid":"76","th_name":"มหาวิทยาลัยศรีนครินทรวิโรฒ","en_name":"Srinakharinwirot University","short_name_th":"มศว.","short_name_en":"SWU"},{"uid":"77","th_name":"มหาวิทยาลัยศิลปากร","en_name":"Silpakorn University","short_name_th":"มศก.","short_name_en":"SU"},{"uid":"78","th_name":"มหาวิทยาลัยสงขลานครินทร์","en_name":"Prince of Songkla University","short_name_th":"ม.อ.","short_name_en":"PSU"},{"uid":"79","th_name":"มหาวิทยาลัยสวนดุสิต","en_name":"Suan Dusit University","short_name_th":"มสด.","short_name_en":"SDU"},{"uid":"80","th_name":"มหาวิทยาลัยกรุงเทพ","en_name":"Bangkok University","short_name_th":"มกท.","short_name_en":"BU"},{"uid":"81","th_name":"มหาวิทยาลัยกรุงเทพธนบุรี","en_name":"Bangkok Thonburi University","short_name_th":"มกธ.","short_name_en":"BTU"},{"uid":"82","th_name":"มหาวิทยาลัยกรุงเทพสุวรรณภูมิ","en_name":"Bangkok Suvarnabhumi University","short_name_th":"มกส.","short_name_en":"BSU"},{"uid":"83","th_name":"มหาวิทยาลัยการจัดการและเทคโนโลยีอีสเทิร์น","en_name":"University In The Northeast","short_name_th":"มจทอ.","short_name_en":"UMT"},{"uid":"84","th_name":"มหาวิทยาลัยเกริก","en_name":"Krirk University","short_name_th":"ม.กร.","short_name_en":"KRU"},{"uid":"85","th_name":"มหาวิทยาลัยเกษมบัณฑิต","en_name":"Kasem Bundit University","short_name_th":"มกบ.","short_name_en":"KBU"},{"uid":"86","th_name":"มหาวิทยาลัยคริสเตียน","en_name":"Christian University of Thailand","short_name_th":"ม.ค.ต.","short_name_en":"C.U.T."},{"uid":"87","th_name":"มหาวิทยาลัยเฉลิมกาญจนา","en_name":"Chalermkarnchana University","short_name_th":"มฉน.","short_name_en":"CNU"},{"uid":"88","th_name":"มหาวิทยาลัยตาปี","en_name":"Tapee University","short_name_th":"มตป.","short_name_en":"TPU"},{"uid":"89","th_name":"มหาวิทยาลัยเจ้าพระยา","en_name":"Chaopraya University","short_name_th":"มจพ.","short_name_en":"CPU"},{"uid":"90","th_name":"มหาวิทยาลัยชินวัตร","en_name":"Shinawatra University","short_name_th":"มชว.","short_name_en":"SIU"},{"uid":"91","th_name":"มหาวิทยาลัยเซนต์จอห์น","en_name":"Saint John's University","short_name_th":"มซจ.","short_name_en":"SJU"},{"uid":"92","th_name":"มหาวิทยาลัยเทคโนโลยีมหานคร","en_name":"Mahanakorn University of Technology","short_name_th":"มทม.","short_name_en":"MUT"},{"uid":"93","th_name":"มหาวิทยาลัยธนบุรี","en_name":"Thonburi University","short_name_th":"มธร.","short_name_en":"TRU"},{"uid":"94","th_name":"มหาวิทยาลัยธุรกิจบัณฑิตย์","en_name":"Dhurakij Pundit University","short_name_th":"มธบ.","short_name_en":"DPU"},{"uid":"95","th_name":"มหาวิทยาลัยนอร์ทกรุงเทพ","en_name":"North Bangkok University","short_name_th":"มนก.","short_name_en":"NBU"},{"uid":"96","th_name":"มหาวิทยาลัยนอร์ท-เชียงใหม่","en_name":"North-Chiang Mai University","short_name_th":"มนช.","short_name_en":"NCU"},{"uid":"97","th_name":"มหาวิทยาลัยนานาชาติแสตมฟอร์ด","en_name":"Stamford International University","short_name_th":"มนชส.","short_name_en":"STIU"},{"uid":"98","th_name":"มหาวิทยาลัยนานาชาติเอเชีย-แปซิฟิก","en_name":"Asia-Pacific International University","short_name_th":"ม.น.อ.","short_name_en":"AIU"},{"uid":"99","th_name":"มหาวิทยาลัยเนชั่น","en_name":"Nation University","short_name_th":"มนช.","short_name_en":"NTU"},{"uid":"100","th_name":"มหาวิทยาลัยปทุมธานี","en_name":"Pathumthani University","short_name_th":"ม.ป.ท.","short_name_en":"PTU"},{"uid":"101","th_name":"มหาวิทยาลัยพายัพ","en_name":"Payap University","short_name_th":"มพย.","short_name_en":"PYU"},{"uid":"102","th_name":"มหาวิทยาลัยพิษณุโลก","en_name":"Phitsanulok University","short_name_th":"มพล.","short_name_en":"PLU"},{"uid":"103","th_name":"มหาวิทยาลัยฟาฏอนี","en_name":"Fatoni University","short_name_th":"มฟน.","short_name_en":"FTU"},{"uid":"104","th_name":"มหาวิทยาลัยฟาร์อีสเทอร์น","en_name":"The Far Eastern University","short_name_th":"ม.ฟ.อ.","short_name_en":"FEU"},{"uid":"105","th_name":"มหาวิทยาลัยภาคกลาง","en_name":"The University of Central Thailand","short_name_th":"ม.ภก.","short_name_en":"UCT"},{"uid":"106","th_name":"มหาวิทยาลัยภาคตะวันออกเฉียงเหนือ","en_name":"NorthEastern University and Phakklang University","short_name_th":"ม.ภ.น.","short_name_en":"NEU"},{"uid":"107","th_name":"มหาวิทยาลัยรังสิต","en_name":"Rangsit University","short_name_th":"มรส.","short_name_en":"RSU"},{"uid":"108","th_name":"มหาวิทยาลัยรัตนบัณฑิต","en_name":"Rattana Bundit University and Rangsit University","short_name_th":"มรบ.","short_name_en":"RBAC"},{"uid":"109","th_name":"มหาวิทยาลัยราชธานี","en_name":"Ratchathani University","short_name_th":"มรธ.","short_name_en":"RTU"},{"uid":"110","th_name":"มหาวิทยาลัยราชพฤกษ์","en_name":"Rajapruk University","short_name_th":"มรพ.","short_name_en":"RPU"},{"uid":"111","th_name":"มหาวิทยาลัยวงษ์ชวลิตกุล","en_name":"Vongchavalitkul University","short_name_th":"มว.","short_name_en":"VU"},{"uid":"112","th_name":"มหาวิทยาลัยเว็บสเตอร์ (ประเทศไทย)","en_name":"Webster University Thailand","short_name_th":"ม.ว.ท.","short_name_en":"WTUT"},{"uid":"113","th_name":"มหาวิทยาลัยเวสเทิร์น","en_name":"Western University","short_name_th":"มท.","short_name_en":"WTU"},{"uid":"114","th_name":"มหาวิทยาลัยศรีปทุม","en_name":"Sripatum University","short_name_th":"มศป.","short_name_en":"SPU"},{"uid":"115","th_name":"มหาวิทยาลัยสยาม","en_name":"Siam University","short_name_th":"มส.","short_name_en":"SU"},{"uid":"116","th_name":"มหาวิทยาลัยหอการค้าไทย","en_name":"University of the Thai Chamber of Commerce","short_name_th":"มกค.","short_name_en":"UTCC"},{"uid":"117","th_name":"มหาวิทยาลัยหัวเฉียวเฉลิมพระเกียรติ","en_name":"Huachiew Chalermprakiet University","short_name_th":"ม.ฉ.ก.","short_name_en":"HCU"},{"uid":"118","th_name":"มหาวิทยาลัยหาดใหญ่","en_name":"Hatyai University","short_name_th":"ม.ญ.","short_name_en":"HU"},{"uid":"119","th_name":"มหาวิทยาลัยอัสสัมชัญ","en_name":"Assumption University","short_name_th":"มอช.","short_name_en":"AU"},{"uid":"120","th_name":"มหาวิทยาลัยอีสเทิร์นเอเชีย","en_name":"University of Eastern Asia","short_name_th":"มวอ.","short_name_en":"EAU"},{"uid":"121","th_name":"มหาวิทยาลัยเอเชียอาคเนย์","en_name":"Southeast Asia University","short_name_th":"ม.อ.อ.","short_name_en":"SAU"}]
+[
+  {
+    "uid": "01",
+    "th_name": "มหาวิทยาลัยกาฬสินธุ์",
+    "en_name": "Kalasin University",
+    "short_name_th": "มกส.",
+    "short_name_en": "KSU"
+  },
+  {
+    "uid": "02",
+    "th_name": "มหาวิทยาลัยนครพนม",
+    "en_name": "Nakhon Phanom University",
+    "short_name_th": "มนพ.",
+    "short_name_en": "NPU"
+  },
+  {
+    "uid": "03",
+    "th_name": "มหาวิทยาลัยนราธิวาสราชนครินทร์",
+    "en_name": "Princess of Naradhiwas University",
+    "short_name_th": "มนร.",
+    "short_name_en": "PNU"
+  },
+  {
+    "uid": "04",
+    "th_name": "มหาวิทยาลัยนเรศวร",
+    "en_name": "Naresuan University",
+    "short_name_th": "มน.",
+    "short_name_en": "NU"
+  },
+  {
+    "uid": "05",
+    "th_name": "มหาวิทยาลัยมหาสารคาม",
+    "en_name": "Mahasarakham University",
+    "short_name_th": "มมส.",
+    "short_name_en": "MSU"
+  },
+  {
+    "uid": "06",
+    "th_name": "มหาวิทยาลัยรามคำแหง",
+    "en_name": "Ramkhamhaeng University",
+    "short_name_th": "มร.",
+    "short_name_en": "RU"
+  },
+  {
+    "uid": "07",
+    "th_name": "มหาวิทยาลัยสุโขทัยธรรมาธิราช",
+    "en_name": "Sukhothai Thammathirat Open University",
+    "short_name_th": "มสธ.",
+    "short_name_en": "STOU"
+  },
+  {
+    "uid": "08",
+    "th_name": "มหาวิทยาลัยอุบลราชธานี",
+    "en_name": "Ubon Ratchathani University",
+    "short_name_th": "มอบ.",
+    "short_name_en": "UBU"
+  },
+  {
+    "uid": "09",
+    "th_name": "สถาบันบัณฑิตพัฒนบริหารศาสตร์",
+    "en_name": "National Institute of Development Administration-NIDA",
+    "short_name_th": "สพบ.",
+    "short_name_en": "NIDA"
+  },
+  {
+    "uid": "10",
+    "th_name": "สถาบันเทคโนโลยีปทุมวัน",
+    "en_name": "Pathumwan Institute of Technology",
+    "short_name_th": "สทป.",
+    "short_name_en": "PIT"
+  },
+  {
+    "uid": "11",
+    "th_name": "มหาวิทยาลัยราชภัฏกาญจนบุรี",
+    "en_name": "Kanchanaburi Rajabhat University",
+    "short_name_th": "มรกจ.",
+    "short_name_en": "KRU"
+  },
+  {
+    "uid": "12",
+    "th_name": "มหาวิทยาลัยราชภัฏกำแพงเพชร",
+    "en_name": "Kamphaeng Phet Rajabhat University",
+    "short_name_th": "มรภ.กพ.",
+    "short_name_en": "KPRU"
+  },
+  {
+    "uid": "13",
+    "th_name": "มหาวิทยาลัยราชภัฏจันทรเกษม",
+    "en_name": "Chandrakasem Rajabhat University",
+    "short_name_th": "มจษ.",
+    "short_name_en": "CRU"
+  },
+  {
+    "uid": "14",
+    "th_name": "มหาวิทยาลัยราชภัฏชัยภูมิ",
+    "en_name": "Chaiyaphum Rajabhat University",
+    "short_name_th": "มชย.",
+    "short_name_en": "CPRU"
+  },
+  {
+    "uid": "15",
+    "th_name": "มหาวิทยาลัยราชภัฏเชียงราย",
+    "en_name": "Chiang Rai Rajabhat University",
+    "short_name_th": "มร.ช.",
+    "short_name_en": "CRRU"
+  },
+  {
+    "uid": "16",
+    "th_name": "มหาวิทยาลัยราชภัฏเชียงใหม่",
+    "en_name": "Chiang Mai Rajabhat University",
+    "short_name_th": "มร.ชม.",
+    "short_name_en": "CMRU"
+  },
+  {
+    "uid": "17",
+    "th_name": "มหาวิทยาลัยราชภัฏเทพสตรี",
+    "en_name": "Thepsatri Rajabhat University",
+    "short_name_th": "มรท.",
+    "short_name_en": "TRU"
+  },
+  {
+    "uid": "18",
+    "th_name": "มหาวิทยาลัยราชภัฏธนบุรี",
+    "en_name": "Dhonburi Rajabhat University",
+    "short_name_th": "มรธ.",
+    "short_name_en": "DRU"
+  },
+  {
+    "uid": "19",
+    "th_name": "มหาวิทยาลัยราชภัฏนครปฐม",
+    "en_name": "Nakhon Pathom Rajabhat University",
+    "short_name_th": "มรน.",
+    "short_name_en": "NPRU"
+  },
+  {
+    "uid": "20",
+    "th_name": "มหาวิทยาลัยราชภัฏนครราชสีมา",
+    "en_name": "Nakhon Ratchasima Rajabhat University",
+    "short_name_th": "มร.นม.",
+    "short_name_en": "NRRU"
+  },
+  {
+    "uid": "21",
+    "th_name": "มหาวิทยาลัยราชภัฏนครศรีธรรมราช",
+    "en_name": "Nakhon Si Thammarat Rajabhat University",
+    "short_name_th": "มรนศ.",
+    "short_name_en": "NSTRU"
+  },
+  {
+    "uid": "22",
+    "th_name": "มหาวิทยาลัยราชภัฏนครสวรรค์",
+    "en_name": "Nakhon Sawan Rajabhat University",
+    "short_name_th": "มรนว.",
+    "short_name_en": "NSRU"
+  },
+  {
+    "uid": "23",
+    "th_name": "มหาวิทยาลัยราชภัฏบ้านสมเด็จเจ้าพระยา",
+    "en_name": "Bansomdejchaopraya Rajabhat University",
+    "short_name_th": "มบส.",
+    "short_name_en": "BSRU"
+  },
+  {
+    "uid": "24",
+    "th_name": "มหาวิทยาลัยราชภัฏบุรีรัมย์",
+    "en_name": "Buriram Rajabhat University",
+    "short_name_th": "มรภ.บร.",
+    "short_name_en": "BRU"
+  },
+  {
+    "uid": "25",
+    "th_name": "มหาวิทยาลัยราชภัฏพระนคร",
+    "en_name": "Phranakhon Rajabhat University",
+    "short_name_th": "มรภ.พน.",
+    "short_name_en": "PNRU"
+  },
+  {
+    "uid": "26",
+    "th_name": "มหาวิทยาลัยราชภัฏพระนครศรีอยุธยา",
+    "en_name": "Phranakhon Si Ayutthaya Rajabhat University",
+    "short_name_th": "มรอย.",
+    "short_name_en": "ARU"
+  },
+  {
+    "uid": "27",
+    "th_name": "มหาวิทยาลัยราชภัฏพิบูลสงคราม",
+    "en_name": "Pibulsongkram Rajabhat University",
+    "short_name_th": "มรพส.",
+    "short_name_en": "PSRU"
+  },
+  {
+    "uid": "28",
+    "th_name": "มหาวิทยาลัยราชภัฏเพชรบุรี",
+    "en_name": "Phetchaburi Rajabhat University",
+    "short_name_th": "มรภ.พบ.",
+    "short_name_en": "PBRU"
+  },
+  {
+    "uid": "29",
+    "th_name": "มหาวิทยาลัยราชภัฏเพชรบูรณ์",
+    "en_name": "Phetchabun Rajabhat University",
+    "short_name_th": "มรพช.",
+    "short_name_en": "PCRU"
+  },
+  {
+    "uid": "30",
+    "th_name": "มหาวิทยาลัยราชภัฏภูเก็ต",
+    "en_name": "Phuket Rajabhat University",
+    "short_name_th": "มรภ.",
+    "short_name_en": "PKRU"
+  },
+  {
+    "uid": "31",
+    "th_name": "มหาวิทยาลัยราชภัฏมหาสารคาม",
+    "en_name": "Rajabhat Maha Sarakham University",
+    "short_name_th": "มรม.",
+    "short_name_en": "RMU"
+  },
+  {
+    "uid": "32",
+    "th_name": "มหาวิทยาลัยราชภัฏยะลา",
+    "en_name": "Yala Rajabhat University",
+    "short_name_th": "มรย.",
+    "short_name_en": "YRU"
+  },
+  {
+    "uid": "33",
+    "th_name": "มหาวิทยาลัยราชภัฏร้อยเอ็ด",
+    "en_name": "Roi Et Rajabhat University",
+    "short_name_th": "ม.รอ.",
+    "short_name_en": "RERU"
+  },
+  {
+    "uid": "34",
+    "th_name": "มหาวิทยาลัยราชภัฏราชนครินทร์",
+    "en_name": "Rajabhat Rajanagarindra University",
+    "short_name_th": "มรร.",
+    "short_name_en": "RRU"
+  },
+  {
+    "uid": "35",
+    "th_name": "มหาวิทยาลัยราชภัฏรำไพพรรณี",
+    "en_name": "Rambhai Barni Rajabhat University",
+    "short_name_th": "มรรพ.",
+    "short_name_en": "RBRU"
+  },
+  {
+    "uid": "36",
+    "th_name": "มหาวิทยาลัยราชภัฏลำปาง",
+    "en_name": "Lampang Rajabhat University",
+    "short_name_th": "มร.ลป.",
+    "short_name_en": "LPRU"
+  },
+  {
+    "uid": "37",
+    "th_name": "มหาวิทยาลัยราชภัฏเลย",
+    "en_name": "Loei Rajabhat University",
+    "short_name_th": "มรล.",
+    "short_name_en": "LRU"
+  },
+  {
+    "uid": "38",
+    "th_name": "มหาวิทยาลัยราชภัฏวไลยอลงกรณ์ ในพระบรมราชูปถัมภ์",
+    "en_name": "Valaya Alongkorn Rajabhat University",
+    "short_name_th": "มรว.",
+    "short_name_en": "VRU"
+  },
+  {
+    "uid": "39",
+    "th_name": "มหาวิทยาลัยราชภัฏศรีสะเกษ",
+    "en_name": "Sisaket Rajabhat University",
+    "short_name_th": "มรภ.ศก.",
+    "short_name_en": "SSKRU"
+  },
+  {
+    "uid": "40",
+    "th_name": "มหาวิทยาลัยราชภัฏสกลนคร",
+    "en_name": "Sakon Nakhon Rajabhat University",
+    "short_name_th": "มรสน.",
+    "short_name_en": "SNRU"
+  },
+  {
+    "uid": "41",
+    "th_name": "มหาวิทยาลัยราชภัฏสงขลา",
+    "en_name": "Songkhla Rajabhat University",
+    "short_name_th": "มรภ.สข.",
+    "short_name_en": "SKRU"
+  },
+  {
+    "uid": "42",
+    "th_name": "มหาวิทยาลัยราชภัฏสวนสุนันทา",
+    "en_name": "Suan Sunandha Rajabhat University",
+    "short_name_th": "มรภ.สส.",
+    "short_name_en": "SSRU"
+  },
+  {
+    "uid": "43",
+    "th_name": "มหาวิทยาลัยราชภัฏสุราษฎร์ธานี",
+    "en_name": "Suratthani Rajabhat University",
+    "short_name_th": "มรส.",
+    "short_name_en": "SRU"
+  },
+  {
+    "uid": "44",
+    "th_name": "มหาวิทยาลัยราชภัฏสุรินทร์",
+    "en_name": "Surindra Rajabhat University",
+    "short_name_th": "ม.รภ.สร.",
+    "short_name_en": "SRRU"
+  },
+  {
+    "uid": "45",
+    "th_name": "มหาวิทยาลัยราชภัฏหมู่บ้านจอมบึง",
+    "en_name": "Muban Chom Bueng Rajabhat University",
+    "short_name_th": "มรมจ.",
+    "short_name_en": "MCRU"
+  },
+  {
+    "uid": "46",
+    "th_name": "มหาวิทยาลัยราชภัฏอุดรธานี",
+    "en_name": "Udon Thani Rajabhat University",
+    "short_name_th": "มร.อด.",
+    "short_name_en": "UDRU"
+  },
+  {
+    "uid": "47",
+    "th_name": "มหาวิทยาลัยราชภัฏอุตรดิตถ์",
+    "en_name": "Uttaradit Rajabhat University",
+    "short_name_th": "มรอ.",
+    "short_name_en": "URU"
+  },
+  {
+    "uid": "48",
+    "th_name": "มหาวิทยาลัยราชภัฏอุบลราชธานี",
+    "en_name": "Ubon Ratchathani Rajabhat University",
+    "short_name_th": "มรภ.อบ.",
+    "short_name_en": "UBRU"
+  },
+  {
+    "uid": "49",
+    "th_name": "มหาวิทยาลัยเทคโนโลยีราชมงคลกรุงเทพ",
+    "en_name": "Rajamangala University of Technology Krungthep",
+    "short_name_th": "มทร.กรุงเทพ",
+    "short_name_en": "RMUTK"
+  },
+  {
+    "uid": "50",
+    "th_name": "มหาวิทยาลัยเทคโนโลยีราชมงคลตะวันออก",
+    "en_name": "Rajamangala University of Technology Tawan-ok Uthenthawai Campus",
+    "short_name_th": "มทร.ตะวันออก",
+    "short_name_en": "RMUTTO"
+  },
+  {
+    "uid": "51",
+    "th_name": "มหาวิทยาลัยเทคโนโลยีราชมงคลธัญบุรี",
+    "en_name": "Rajamangala University of Technology Thanyaburi",
+    "short_name_th": "มทร.ธัญบุรี",
+    "short_name_en": "RMUTT"
+  },
+  {
+    "uid": "52",
+    "th_name": "มหาวิทยาลัยเทคโนโลยีราชมงคลพระนคร",
+    "en_name": "Rajamangala University of Technology Phra Nakhon",
+    "short_name_th": "มทร.พระนคร",
+    "short_name_en": "RMUTP"
+  },
+  {
+    "uid": "53",
+    "th_name": "มหาวิทยาลัยเทคโนโลยีราชมงคลรัตนโกสินทร์",
+    "en_name": "Rajamangala University of Technology Rattanakosin",
+    "short_name_th": "มทร.รัตนโกสินทร์",
+    "short_name_en": "RMUTR"
+  },
+  {
+    "uid": "54",
+    "th_name": "มหาวิทยาลัยเทคโนโลยีราชมงคลล้านนา",
+    "en_name": "Rajamangala University of Technology Lanna",
+    "short_name_th": "มทร.ล้านนา",
+    "short_name_en": "RMUTL"
+  },
+  {
+    "uid": "55",
+    "th_name": "มหาวิทยาลัยเทคโนโลยีราชมงคลศรีวิชัย",
+    "en_name": "Rajamangala University of Technology Srivijaya",
+    "short_name_th": "มทร.ศรีวิชัย",
+    "short_name_en": "RMUTSV"
+  },
+  {
+    "uid": "56",
+    "th_name": "มหาวิทยาลัยเทคโนโลยีราชมงคลสุวรรณภูมิ",
+    "en_name": "Rajamangala University of Technology Suvarnabhumi",
+    "short_name_th": "มทร.สุวรรณภูมิ",
+    "short_name_en": "RUS"
+  },
+  {
+    "uid": "57",
+    "th_name": "มหาวิทยาลัยเทคโนโลยีราชมงคลอีสาน",
+    "en_name": "Rajamangala University of Technology Isan",
+    "short_name_th": "มทร.อีสาน",
+    "short_name_en": "RMUTI"
+  },
+  {
+    "uid": "58",
+    "th_name": "มหาวิทยาลัยเกษตรศาสตร์",
+    "en_name": "Kasetsart University",
+    "short_name_th": "มก.",
+    "short_name_en": "KU"
+  },
+  {
+    "uid": "59",
+    "th_name": "มหาวิทยาลัยขอนแก่น",
+    "en_name": "Khon Kaen University",
+    "short_name_th": "มข.",
+    "short_name_en": "KKU"
+  },
+  {
+    "uid": "60",
+    "th_name": "จุฬาลงกรณ์มหาวิทยาลัย",
+    "en_name": "Chulalongkorn University",
+    "short_name_th": "จฬ.",
+    "short_name_en": "CU"
+  },
+  {
+    "uid": "61",
+    "th_name": "มหาวิทยาลัยเชียงใหม่",
+    "en_name": "Chiang Mai University",
+    "short_name_th": "มช.",
+    "short_name_en": "CMU"
+  },
+  {
+    "uid": "62",
+    "th_name": "มหาวิทยาลัยทักษิณ",
+    "en_name": "Thaksin University",
+    "short_name_th": "มทษ.",
+    "short_name_en": "TSU"
+  },
+  {
+    "uid": "63",
+    "th_name": "มหาวิทยาลัยเทคโนโลยีพระจอมเกล้าธนบุรี",
+    "en_name": "King Mongkut’s University of Technology Thonburi",
+    "short_name_th": "มจธ.",
+    "short_name_en": "KMUTT"
+  },
+  {
+    "uid": "64",
+    "th_name": "มหาวิทยาลัยเทคโนโลยีพระจอมเกล้าพระนครเหนือ",
+    "en_name": "King Mongkut's University of Technology North Bangkok",
+    "short_name_th": "มจพ.",
+    "short_name_en": "KMUTNB"
+  },
+  {
+    "uid": "65",
+    "th_name": "มหาวิทยาลัยเทคโนโลยีสุรนารี",
+    "en_name": "University in Nakhon Ratchasima",
+    "short_name_th": "มทส.",
+    "short_name_en": "SUT"
+  },
+  {
+    "uid": "66",
+    "th_name": "มหาวิทยาลัยธรรมศาสตร์",
+    "en_name": "Thammasat University",
+    "short_name_th": "มธ.",
+    "short_name_en": "TU"
+  },
+  {
+    "uid": "67",
+    "th_name": "มหาวิทยาลัยนวมินทราธิราช",
+    "en_name": "Navamindradhiraj University",
+    "short_name_th": "นมร.",
+    "short_name_en": "NMU"
+  },
+  {
+    "uid": "68",
+    "th_name": "มหาวิทยาลัยบูรพา",
+    "en_name": "Burapha University",
+    "short_name_th": "มบ.",
+    "short_name_en": "BUU"
+  },
+  {
+    "uid": "69",
+    "th_name": "มหาวิทยาลัยพะเยา",
+    "en_name": "University of Phayao",
+    "short_name_th": "มพ.",
+    "short_name_en": "UP"
+  },
+  {
+    "uid": "70",
+    "th_name": "มหาวิทยาลัยมหาจุฬาลงกรณราชวิทยาลัย",
+    "en_name": "Mahachulalongkornrajavidyalaya University",
+    "short_name_th": "มจร.",
+    "short_name_en": "MCU"
+  },
+  {
+    "uid": "71",
+    "th_name": "มหาวิทยาลัยมหามกุฏราชวิทยาลัย",
+    "en_name": "Mahamakut Buddhist University",
+    "short_name_th": "มมร.",
+    "short_name_en": "MBU"
+  },
+  {
+    "uid": "72",
+    "th_name": "มหาวิทยาลัยมหิดล",
+    "en_name": "Mahidol University",
+    "short_name_th": "-",
+    "short_name_en": "MU"
+  },
+  {
+    "uid": "73",
+    "th_name": "มหาวิทยาลัยแม่โจ้",
+    "en_name": "Maejo University",
+    "short_name_th": "มจ.",
+    "short_name_en": "MJU"
+  },
+  {
+    "uid": "74",
+    "th_name": "มหาวิทยาลัยแม่ฟ้าหลวง",
+    "en_name": "Mae Fah Luang University",
+    "short_name_th": "มฟล.",
+    "short_name_en": "MFU"
+  },
+  {
+    "uid": "75",
+    "th_name": "มหาวิทยาลัยวลัยลักษณ์",
+    "en_name": "Walailak University",
+    "short_name_th": "มวล.",
+    "short_name_en": "WU"
+  },
+  {
+    "uid": "76",
+    "th_name": "มหาวิทยาลัยศรีนครินทรวิโรฒ",
+    "en_name": "Srinakharinwirot University",
+    "short_name_th": "มศว.",
+    "short_name_en": "SWU"
+  },
+  {
+    "uid": "77",
+    "th_name": "มหาวิทยาลัยศิลปากร",
+    "en_name": "Silpakorn University",
+    "short_name_th": "มศก.",
+    "short_name_en": "SU"
+  },
+  {
+    "uid": "78",
+    "th_name": "มหาวิทยาลัยสงขลานครินทร์",
+    "en_name": "Prince of Songkla University",
+    "short_name_th": "ม.อ.",
+    "short_name_en": "PSU"
+  },
+  {
+    "uid": "79",
+    "th_name": "มหาวิทยาลัยสวนดุสิต",
+    "en_name": "Suan Dusit University",
+    "short_name_th": "มสด.",
+    "short_name_en": "SDU"
+  },
+  {
+    "uid": "80",
+    "th_name": "มหาวิทยาลัยกรุงเทพ",
+    "en_name": "Bangkok University",
+    "short_name_th": "มกท.",
+    "short_name_en": "BU"
+  },
+  {
+    "uid": "81",
+    "th_name": "มหาวิทยาลัยกรุงเทพธนบุรี",
+    "en_name": "Bangkok Thonburi University",
+    "short_name_th": "มกธ.",
+    "short_name_en": "BTU"
+  },
+  {
+    "uid": "82",
+    "th_name": "มหาวิทยาลัยกรุงเทพสุวรรณภูมิ",
+    "en_name": "Bangkok Suvarnabhumi University",
+    "short_name_th": "มกส.",
+    "short_name_en": "BSU"
+  },
+  {
+    "uid": "83",
+    "th_name": "มหาวิทยาลัยการจัดการและเทคโนโลยีอีสเทิร์น",
+    "en_name": "University In The Northeast",
+    "short_name_th": "มจทอ.",
+    "short_name_en": "UMT"
+  },
+  {
+    "uid": "84",
+    "th_name": "มหาวิทยาลัยเกริก",
+    "en_name": "Krirk University",
+    "short_name_th": "ม.กร.",
+    "short_name_en": "KRU"
+  },
+  {
+    "uid": "85",
+    "th_name": "มหาวิทยาลัยเกษมบัณฑิต",
+    "en_name": "Kasem Bundit University",
+    "short_name_th": "มกบ.",
+    "short_name_en": "KBU"
+  },
+  {
+    "uid": "86",
+    "th_name": "มหาวิทยาลัยคริสเตียน",
+    "en_name": "Christian University of Thailand",
+    "short_name_th": "ม.ค.ต.",
+    "short_name_en": "C.U.T."
+  },
+  {
+    "uid": "87",
+    "th_name": "มหาวิทยาลัยเฉลิมกาญจนา",
+    "en_name": "Chalermkarnchana University",
+    "short_name_th": "มฉน.",
+    "short_name_en": "CNU"
+  },
+  {
+    "uid": "88",
+    "th_name": "มหาวิทยาลัยตาปี",
+    "en_name": "Tapee University",
+    "short_name_th": "มตป.",
+    "short_name_en": "TPU"
+  },
+  {
+    "uid": "89",
+    "th_name": "มหาวิทยาลัยเจ้าพระยา",
+    "en_name": "Chaopraya University",
+    "short_name_th": "มจพ.",
+    "short_name_en": "CPU"
+  },
+  {
+    "uid": "90",
+    "th_name": "มหาวิทยาลัยชินวัตร",
+    "en_name": "Shinawatra University",
+    "short_name_th": "มชว.",
+    "short_name_en": "SIU"
+  },
+  {
+    "uid": "91",
+    "th_name": "มหาวิทยาลัยเซนต์จอห์น",
+    "en_name": "Saint John's University",
+    "short_name_th": "มซจ.",
+    "short_name_en": "SJU"
+  },
+  {
+    "uid": "92",
+    "th_name": "มหาวิทยาลัยเทคโนโลยีมหานคร",
+    "en_name": "Mahanakorn University of Technology",
+    "short_name_th": "มทม.",
+    "short_name_en": "MUT"
+  },
+  {
+    "uid": "93",
+    "th_name": "มหาวิทยาลัยธนบุรี",
+    "en_name": "Thonburi University",
+    "short_name_th": "มธร.",
+    "short_name_en": "TRU"
+  },
+  {
+    "uid": "94",
+    "th_name": "มหาวิทยาลัยธุรกิจบัณฑิตย์",
+    "en_name": "Dhurakij Pundit University",
+    "short_name_th": "มธบ.",
+    "short_name_en": "DPU"
+  },
+  {
+    "uid": "95",
+    "th_name": "มหาวิทยาลัยนอร์ทกรุงเทพ",
+    "en_name": "North Bangkok University",
+    "short_name_th": "มนก.",
+    "short_name_en": "NBU"
+  },
+  {
+    "uid": "96",
+    "th_name": "มหาวิทยาลัยนอร์ท-เชียงใหม่",
+    "en_name": "North-Chiang Mai University",
+    "short_name_th": "มนช.",
+    "short_name_en": "NCU"
+  },
+  {
+    "uid": "97",
+    "th_name": "มหาวิทยาลัยนานาชาติแสตมฟอร์ด",
+    "en_name": "Stamford International University",
+    "short_name_th": "มนชส.",
+    "short_name_en": "STIU"
+  },
+  {
+    "uid": "98",
+    "th_name": "มหาวิทยาลัยนานาชาติเอเชีย-แปซิฟิก",
+    "en_name": "Asia-Pacific International University",
+    "short_name_th": "ม.น.อ.",
+    "short_name_en": "AIU"
+  },
+  {
+    "uid": "99",
+    "th_name": "มหาวิทยาลัยเนชั่น",
+    "en_name": "Nation University",
+    "short_name_th": "มนช.",
+    "short_name_en": "NTU"
+  },
+  {
+    "uid": "100",
+    "th_name": "มหาวิทยาลัยปทุมธานี",
+    "en_name": "Pathumthani University",
+    "short_name_th": "ม.ป.ท.",
+    "short_name_en": "PTU"
+  },
+  {
+    "uid": "101",
+    "th_name": "มหาวิทยาลัยพายัพ",
+    "en_name": "Payap University",
+    "short_name_th": "มพย.",
+    "short_name_en": "PYU"
+  },
+  {
+    "uid": "102",
+    "th_name": "มหาวิทยาลัยพิษณุโลก",
+    "en_name": "Phitsanulok University",
+    "short_name_th": "มพล.",
+    "short_name_en": "PLU"
+  },
+  {
+    "uid": "103",
+    "th_name": "มหาวิทยาลัยฟาฏอนี",
+    "en_name": "Fatoni University",
+    "short_name_th": "มฟน.",
+    "short_name_en": "FTU"
+  },
+  {
+    "uid": "104",
+    "th_name": "มหาวิทยาลัยฟาร์อีสเทอร์น",
+    "en_name": "The Far Eastern University",
+    "short_name_th": "ม.ฟ.อ.",
+    "short_name_en": "FEU"
+  },
+  {
+    "uid": "105",
+    "th_name": "มหาวิทยาลัยภาคกลาง",
+    "en_name": "The University of Central Thailand",
+    "short_name_th": "ม.ภก.",
+    "short_name_en": "UCT"
+  },
+  {
+    "uid": "106",
+    "th_name": "มหาวิทยาลัยภาคตะวันออกเฉียงเหนือ",
+    "en_name": "NorthEastern University and Phakklang University",
+    "short_name_th": "ม.ภ.น.",
+    "short_name_en": "NEU"
+  },
+  {
+    "uid": "107",
+    "th_name": "มหาวิทยาลัยรังสิต",
+    "en_name": "Rangsit University",
+    "short_name_th": "มรส.",
+    "short_name_en": "RSU"
+  },
+  {
+    "uid": "108",
+    "th_name": "มหาวิทยาลัยรัตนบัณฑิต",
+    "en_name": "Rattana Bundit University and Rangsit University",
+    "short_name_th": "มรบ.",
+    "short_name_en": "RBAC"
+  },
+  {
+    "uid": "109",
+    "th_name": "มหาวิทยาลัยราชธานี",
+    "en_name": "Ratchathani University",
+    "short_name_th": "มรธ.",
+    "short_name_en": "RTU"
+  },
+  {
+    "uid": "110",
+    "th_name": "มหาวิทยาลัยราชพฤกษ์",
+    "en_name": "Rajapruk University",
+    "short_name_th": "มรพ.",
+    "short_name_en": "RPU"
+  },
+  {
+    "uid": "111",
+    "th_name": "มหาวิทยาลัยวงษ์ชวลิตกุล",
+    "en_name": "Vongchavalitkul University",
+    "short_name_th": "มว.",
+    "short_name_en": "VU"
+  },
+  {
+    "uid": "112",
+    "th_name": "มหาวิทยาลัยเว็บสเตอร์ (ประเทศไทย)",
+    "en_name": "Webster University Thailand",
+    "short_name_th": "ม.ว.ท.",
+    "short_name_en": "WTUT"
+  },
+  {
+    "uid": "113",
+    "th_name": "มหาวิทยาลัยเวสเทิร์น",
+    "en_name": "Western University",
+    "short_name_th": "มท.",
+    "short_name_en": "WTU"
+  },
+  {
+    "uid": "114",
+    "th_name": "มหาวิทยาลัยศรีปทุม",
+    "en_name": "Sripatum University",
+    "short_name_th": "มศป.",
+    "short_name_en": "SPU"
+  },
+  {
+    "uid": "115",
+    "th_name": "มหาวิทยาลัยสยาม",
+    "en_name": "Siam University",
+    "short_name_th": "มส.",
+    "short_name_en": "SU"
+  },
+  {
+    "uid": "116",
+    "th_name": "มหาวิทยาลัยหอการค้าไทย",
+    "en_name": "University of the Thai Chamber of Commerce",
+    "short_name_th": "มกค.",
+    "short_name_en": "UTCC"
+  },
+  {
+    "uid": "117",
+    "th_name": "มหาวิทยาลัยหัวเฉียวเฉลิมพระเกียรติ",
+    "en_name": "Huachiew Chalermprakiet University",
+    "short_name_th": "ม.ฉ.ก.",
+    "short_name_en": "HCU"
+  },
+  {
+    "uid": "118",
+    "th_name": "มหาวิทยาลัยหาดใหญ่",
+    "en_name": "Hatyai University",
+    "short_name_th": "ม.ญ.",
+    "short_name_en": "HU"
+  },
+  {
+    "uid": "119",
+    "th_name": "มหาวิทยาลัยอัสสัมชัญ",
+    "en_name": "Assumption University",
+    "short_name_th": "มอช.",
+    "short_name_en": "AU"
+  },
+  {
+    "uid": "120",
+    "th_name": "มหาวิทยาลัยอีสเทิร์นเอเชีย",
+    "en_name": "University of Eastern Asia",
+    "short_name_th": "มวอ.",
+    "short_name_en": "EAU"
+  },
+  {
+    "uid": "121",
+    "th_name": "มหาวิทยาลัยเอเชียอาคเนย์",
+    "en_name": "Southeast Asia University",
+    "short_name_th": "ม.อ.อ.",
+    "short_name_en": "SAU"
+  }
+]
