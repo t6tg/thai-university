@@ -1,6 +1,6 @@
 {
   "name": "thai-university",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "main": "lib/production/index.js",
   "module": "lib/cjs/index.js",
   "types": "libs/index.d.ts",
@@ -12,7 +12,7 @@
     "url": "https://t6tg.com"
   },
   "scripts": {
-    "start": "tsc -p . && node lib/index.js",
+    "start": "tsc -p . && node lib/production/index.js",
     "prebuild": "rm -r lib",
     "build": "npm run build:cjs && npm run build:esm && npm run build:production",
     "build:cjs": "tsc && mv lib/cjs/src/* lib/cjs && rm -r lib/cjs/src",
