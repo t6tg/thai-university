@@ -1,30 +1,36 @@
 {
-  "name": "thai-university",
-  "version": "1.2.1",
-  "main": "lib/production/index.js",
-  "module": "lib/cjs/index.js",
-  "types": "libs/index.d.ts",
-  "jsnext:main": "dist/esm/index.es.js",
-  "license": "MIT",
-  "author": {
-    "email": "work.t6tg@gmail.com",
-    "name": "Thanawat Gulati",
-    "url": "https://t6tg.com"
-  },
-  "scripts": {
-    "start": "tsc -p . && node lib/production/index.js",
-    "prebuild": "rm -r lib",
-    "build": "npm run build:cjs && npm run build:esm && npm run build:production",
-    "build:cjs": "tsc && mv lib/cjs/src/* lib/cjs && rm -r lib/cjs/src",
-    "build:esm": "tsc --project tsconfig.esm.json && mv lib/esm/src/* lib/esm && rm -r lib/esm/src",
-    "build:production": "mkdir lib/production && terser lib/cjs/index.js -o lib/production/index.js --compress --mangle",
-    "postbuild": "mv lib/cjs/universities.json lib/universities.json && rm lib/esm/universities.json"
-  },
-  "devDependencies": {
-    "@typescript-eslint/eslint-plugin": "^4.5.0",
-    "@typescript-eslint/parser": "^4.5.0",
-    "eslint": "^7.11.0",
-    "terser": "^5.3.8",
-    "typescript": "^4.0.3"
-  }
+    "name": "thai-university",
+    "version": "1.2.3",
+    "main": "lib/production/index.js",
+    "keywords": [
+        "university",
+        "thailand",
+        "api",
+        "thai"
+    ],
+    "module": "lib/cjs/index.js",
+    "types": "libs/index.d.ts",
+    "jsnext:main": "dist/esm/index.es.js",
+    "license": "MIT",
+    "author": {
+        "email": "work.t6tg@gmail.com",
+        "name": "Thanawat Gulati",
+        "url": "https://t6tg.com"
+    },
+    "scripts": {
+        "start": "tsc -p . && node lib/production/index.js",
+        "prebuild": "rm -r lib",
+        "build": "npm run build:cjs && npm run build:esm && npm run build:production",
+        "build:cjs": "tsc && mv lib/cjs/src/* lib/cjs && rm -r lib/cjs/src",
+        "build:esm": "tsc --project tsconfig.esm.json && mv lib/esm/src/* lib/esm && rm -r lib/esm/src",
+        "build:production": "mkdir lib/production && terser lib/cjs/index.js -o lib/production/index.js --compress --mangle",
+        "postbuild": "mv lib/cjs/universities.json lib/universities.json && rm lib/esm/universities.json"
+    },
+    "devDependencies": {
+        "@typescript-eslint/eslint-plugin": "^4.5.0",
+        "@typescript-eslint/parser": "^4.5.0",
+        "eslint": "^7.11.0",
+        "terser": "^5.3.8",
+        "typescript": "^4.0.3"
+    }
 }
